@@ -1,0 +1,13 @@
+tipo:Extra:10000:500.0
+tipo:Corriente:5000:8000.0
+tipo:Diesel:1500:1000.0
+tipo:ACPM+:3000:2300.0
+surtidor:laura::0.0:Extra:0.0:Corriente:0.0:Diesel:0.0:ACPM+:0.0
+surtidor:david::0.0:Extra:0.0:Corriente:0.0:Diesel:0.0:ACPM+:0.0
+surtidor:felipe::0.0:Extra:0.0:Corriente:0.0:Diesel:0.0:ACPM+:0.0
+surtidor:felipe::0.0:Extra:0.0:Corriente:0.0:Diesel:0.0:ACPM+:0.0
+empleado:laura:0
+empleado:felipe:0
+empleado:juan:0
+empleado:david:0
+empleado:maria:0
